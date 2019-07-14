@@ -6,6 +6,11 @@ Subpixel Linearity Improvement for Intel  ®  RealSense™  Depth Camera D400 Serie
 https://www.intelrealsense.com/wp-content/uploads/2019/07/White_Paper_on_Subpixel_Linearity_Improvement-1.pdf
 
 
+Machinelearningfor high-speed cornerdetection
+
+https://www.edwardrosten.com/work/rosten_2006_machine.pdf
+
+
 HyperDepth: Learning Depth from Structured Light Without Matching
 
 http://openaccess.thecvf.com/content_cvpr_2016/papers/Fanello_HyperDepth_Learning_Depth_CVPR_2016_paper.pdf
