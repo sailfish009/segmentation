@@ -1,6 +1,16 @@
 # segmentation
 various segmentation technique
 
+Subpixel Linearity Improvement for Intel  ®  RealSense™  Depth Camera D400 Series
+
+https://www.intelrealsense.com/wp-content/uploads/2019/07/White_Paper_on_Subpixel_Linearity_Improvement-1.pdf
+
+
+HyperDepth: Learning Depth from Structured Light Without Matching
+
+http://openaccess.thecvf.com/content_cvpr_2016/papers/Fanello_HyperDepth_Learning_Depth_CVPR_2016_paper.pdf
+
+
 Deep Convolutional Neural Fields for Depth Estimation from a Single Image
 
 https://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Liu_Deep_Convolutional_Neural_2015_CVPR_paper.pdf
