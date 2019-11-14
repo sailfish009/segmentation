@@ -34,3 +34,8 @@ https://www.math.ucla.edu/~bertozzi/papers/ICIP_2017_final.pdf
 Spectral Clustering with Eigenvalue SimilarityMetric Method for POL-SAR Image Segmentation of Land Cover:
 
 https://file.scirp.org/pdf/JGIS_2018022415082573.pdf
+
+
+Disentangling Monocular 3D Object Detection
+
+https://arxiv.org/pdf/1905.12365.pdf
