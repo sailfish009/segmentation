@@ -1,7 +1,7 @@
 # segmentation
 various segmentation technique
 
-Subpixel Linearity Improvement for Intel  ®  RealSense™  Depth Camera D400 Series
+Subpixel Linearity Improvement for Intel  Â®  RealSenseâ„¢  Depth Camera D400 Series
 
 https://www.intelrealsense.com/wp-content/uploads/2019/07/White_Paper_on_Subpixel_Linearity_Improvement-1.pdf
 
@@ -39,3 +39,8 @@ https://file.scirp.org/pdf/JGIS_2018022415082573.pdf
 Disentangling Monocular 3D Object Detection
 
 https://arxiv.org/pdf/1905.12365.pdf
+
+
+One-Shot Instance Segmentation
+
+https://arxiv.org/pdf/1811.11507.pdf
